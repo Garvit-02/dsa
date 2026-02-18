@@ -1,5 +1,5 @@
 //Variable Sliding Window
-
+import java.util.*;
 class Solution {
     public int longestKSubstr(String s, int k) {
         // code here
